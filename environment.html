@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    
+    <nav class="">
+        <div class="wrapper">
+            <div class="logo"><a href="#">Logo</a></div>
+            <input type="radio" name="slider" id="menu-btn">
+            <input type="radio" name="slider" id="close-btn">
+            <ul class="nav-links">
+                <label for="close-btn" class="btn close-btn"><i class="fas fa-times"></i></label>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li>
+                    <a href="#" class="desktop-item">Campaign</a>
+                    <input type="checkbox" id="showDrop">
+                    <label for="showDrop" class="mobile-item"></label>
+                    <ul class="drop-menu">
+                        <li><a href="#medical">Medical Camp</a></li>
+                        <li><a href="#environment">Environment Camp</a></li>
+                        <li><a href="#firstaid">First Aids</a></li>
+
+                    </ul>
+                </li>
+
+                <li><a href="tel:7294845948">Emergency Helpline</a></li>
+            </ul>
+            <label for="menu-btn" class="btn menu-btn"><i class="fas fa-bars"></i></label>
+        </div>
+    </nav>
+    <section class="medical" id="medical">
+        <div class="m_camps">
+            <div class="heading mb-5">
+                <h1 class="d-flex justify-content-center">Environmental Camp</h1>
+                <div class="hr d-flex justify-content-center"></div>
+            </div>
+            
+            <div class="mcamp_lefts  col-xs-12">
+                <p><span style="color:#06A7C3; font-size: 35px;">Environment</span> Camp are important for everyone because
+                    medical camps provide free medical advice, medicine
+                    to
+                    the unfortunate people and refer for specialized treatment or surgery whenever it is required. These
+                    camps make sure people are getting the healthcare at the right time, and seeing the doctor early
+                    enough before a small health problem turns serious.</p>
+            </div>
+            
+            
+        </div>
+        <div class="box1">
+            <div class="t_box">
+                <img src="./img/mother-earth-day.png" alt="" class="img-fluid">
+            <h5>Save Soil Camp</h5>
+            
+            </div>
+            <button class="btn btn-primary">Enroll With Us</button>
+        </div>
+        <div class="box1">
+            <div class="t_box">
+                <img src="./img/eye.png" alt="" class="img-fluid">
+            <h5>Planting Camp</h5>
+            
+            </div>
+            <button class="btn btn-primary">Enroll With Us</button>
+        </div>
+        <div class="box1">
+            <div class="t_box">
+                <img src="./img/teeth.png" alt="" class="img-fluid">
+            <h5>No Plastic Camp</h5>
+            
+            </div>
+            <button class="btn btn-primary">Enroll With Us</button>
+        </div>
+        <div class="box1">
+            <div class="t_box">
+                <img src="./img/save-water.png" alt="" class="img-fluid">
+            <h5>Save Water</h5>
+            
+            </div>
+            <button class="btn btn-primary">Enroll With Us</button>
+        </div>
+        
+
+        
+    </section>
+</body>
+
+</html>

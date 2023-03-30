@@ -1,0 +1,219 @@
+<section class="medical" id="medical">
+        <div class="m_camp row">
+            <div class="heading mb-5">
+                <h1 class="d-flex justify-content-center">Medical Camp</h1>
+                <div class="hr d-flex justify-content-center"></div>
+            </div>
+            <div class="mcamp_right col-md-6 col-xs-12">
+                <img src="./img/camp.jpg" alt="" class="img-fluid">
+            </div>
+            <div class="mcamp_left col-md-6 col-xs-12">
+                <p><span style="color:#06A7C3; font-size: 35px;">Medical</span> Camp are important for everyone because
+                    medical camps provide free medical advice, medicine
+                    to
+                    the unfortunate people and refer for specialized treatment or surgery whenever it is required. These
+                    camps make sure people are getting the healthcare at the right time, and seeing the doctor early
+                    enough before a small health problem turns serious.</p>
+
+                <div class="c_icons">
+                    <div class="c_icon1">
+                        <div class="icons">
+                            <img src="./img/eye.png" alt="">
+                            <p>Eye Donation</p>
+                        </div>
+                        <div class="icons">
+                            <img src="./img/blood-donation.png" alt="">
+                            <p>Blood Donation</p>
+                        </div>
+                        <div class="icons">
+                            <img src="./img/teeth.png" alt="">
+                            <p>Dental Camp</p>
+                        </div>
+                    </div>
+                    <div class="c_icon2">
+                        <div class="icons">
+                            <img src="./img/medicine.png" alt="">
+                            <p>Children's care</p>
+                        </div>
+                        <div class="icons">
+                            <img src="./img/prenatal-care.png" alt="">
+                            <p>Womens care</p>
+                        </div>
+                        <div class="icons">
+                            <img src="./img/sugar-blood-level.png" alt="">
+                            <p>Diabetes</p>
+                        </div>
+                    </div>
+                </div>
+                <button mt-2 class="m_btn c_btn">Apply Now</button>
+            </div>
+
+
+        </div>
+    </section>
+
+    <section class="environment" id="environment">
+        <div class="m_camp env_camp">
+            <div class="mcamp_left envcamp_left">
+                <h1>Environmental Campaign</h1>
+                <p>Environmental awareness campaigns refer to organizing and educating the general public about the
+                    importance of understanding our environment's vulnerability and protecting it. Promoting
+                    environmental awareness is an effective way to become an environmentalist and create a better
+                    tomorrow for our children.</p>
+
+                <div class="c_icons">
+                    <div class="c_icon1">
+                        <div class="icons">
+                            <img src="./img/save-water.png" alt="">
+                            <p>Save Water</p>
+                        </div>
+                        <div class="icons">
+                            <img src="./img/climate-change.png" alt="">
+                            <p>Climate Change</p>
+                        </div>
+                        <div class="icons">
+                            <img src="./img/mother-earth-day.png" alt="">
+                            <p>Save Earth</p>
+                        </div>
+                    </div>
+                    <div class="c_icon2">
+                        <div class="icons">
+                            <img src="./img/medicine.png" alt="">
+                            <p>Children's care</p>
+                        </div>
+                        <div class="icons">
+                            <img src="./img/prenatal-care.png" alt="">
+                            <p>Womens care</p>
+                        </div>
+                        <div class="icons">
+                            <img src="./img/sugar-blood-level.png" alt="">
+                            <p>Diabetes</p>
+                        </div>
+                    </div>
+                </div>
+                <button mt-2 class="m_btn c_btn">Apply Now</button>
+            </div>
+
+            <div class="mcamp_right ">
+                <!-- <img src="./img/camp.jpg" alt="" class="img-fluid"> -->
+            </div>
+        </div>
+        
+    </section>
+
+    <section class="firstaid" id="firstaid">
+        <div class="m_camp f_camp row justify-content-center">
+            <div class="heading">
+                <h1 class="d-flex justify-content-center">First Aids</h1>
+                <div class="hr d-flex justify-content-center"></div>
+            </div>
+            <div class="mcamp_left col-md-6">
+                <img src="./img/firstaidimg.jpg" alt="firstaid" class="img-fluid">
+            </div>
+            <div class="mcamp_right f_right col-md-6 mt-5">
+                <p>First aid is as easy as ABC - airway, breathing and CPR (cardiopulmonary resuscitation). In any
+                    situation, apply the DRSABCD Action Plan. DRSABCD stands for: Danger – always check the danger to
+                    you, any bystanders and then the injured or ill person.
+                </p>
+                <h5 style="font-weight: bold;">Where to learn first aid and CPR?</h5>
+                <p>You can attend a CPR training course or first aid course with a non-profit organisation such as St
+                    John Ambulance Australia (Victoria), Australian Red Cross and Life Saving Victoria. St John also
+                    runs awareness programs in schools and the community.
+
+                    There is no age limit to learning CPR. The ability to carry out CPR is only limited by the physical
+                    capabilities of the person carrying out the procedure.
+
+                    In some schools, CPR is a module of the first aid course taught to Year 9 students. CPR is a life
+                    skill that everyone should learn. Remember that doing some CPR in an emergency is better than doing
+                    nothing.</p>
+
+
+            </div>
+
+            <!-- <div class="mcamp_right ">
+                <img src="./img/camp.jpg" alt="" class="img-fluid">
+            </div> -->
+        </div>
+    </section>
+    <section class="helpline" id="helpline">
+        <div class="help">
+            <div class="help_left d-flex justify-content-center align-items-center ">
+                <img src="./img/help.jpg" alt="Contact" class="img-fluid " width="50%">
+            </div>
+            <div class="help_right ">
+                <h2>Contact Us</h2>
+                <div class="inputs row">
+                    <div class="mb-3 mt-5 col-md-6">
+                        <label for="exampleFormControlInput1" class="form-label">First Name</label>
+                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="First Name">
+                      </div>
+                      <div class="mb-3 mt-5 col-md-6">
+                        <label for="exampleFormControlInput1" class="form-label">Last Name</label>
+                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Last Name">
+                      </div>
+                      <div class="mb-3  col-md-6">
+                          <label for="exampleFormControlInput1" class="form-label">Campaign</label>
+                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Choose Campaign">                       
+                      </div>
+                      <div class="mb-3  col-md-6">
+                        <label for="exampleFormControlInput1" class="form-label">Phone number</label>
+                      <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Phone number">                       
+                    </div>
+                    <div class="mb-3  col-md-6">
+                        <label for="exampleFormControlInput1" class="form-label">City</label>
+                      <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="City">                       
+                    </div>
+                    <div class="mb-3  col-md-6">
+                        <label for="exampleFormControlInput1" class="form-label">State</label>
+                      <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="State">                       
+                    </div>
+                    <div class="mb-3  col-md-16">
+                        <label for="exampleFormControlInput1" class="form-label">Address</label>
+                      <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Address">                       
+                    </div>
+                    <div class="mb-3">
+                      <label for="exampleFormControlTextarea1" class="form-label">Your Query</label>
+                      <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                    </div>
+                    <button type="submit" class="c_btn3">Submit</button>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <footer class="footer">
+        <div class="box">
+            &#169; All right reserved 2023
+        </div>
+    </footer>
+
+
+    <!-- <hr> -->
+    <!-- <section class="campaign" id="campaign">
+        <div class="campaign_box row">
+            <h1>Campaigns We Have</h1>
+            <div class="main_test row ">
+                <div class="c_testimonial col-md-2 col-xs-12">
+                    <div class="c_box d-flex align-items-center  justify-content-center"><img src="./img/m_logo.png"
+                            alt="logo" class="img-fluid"></div>
+                    <h5 class="text-center">Medical Campaigns</h5>
+                </div>
+                <div class="c_testimonial col-md-2 col-xs-12 ">
+                    <div class="c_box  d-flex align-items-center  justify-content-center"><img src="./img/m_logo.png"
+                            alt="logo" class="img-fluid"></div>
+                    <h5 class="text-center">Environmental Campaigns</h5>
+                </div>
+                <div class="c_testimonial col-md-2 col-xs-12">
+                    <div class="c_box d-flex align-items-center  justify-content-center"><img src="./img/m_logo.png"
+                            alt="logo" class="img-fluid"></div>
+                    <h5 class="text-center">First Aids</h5>
+                </div>
+                <div class="c_testimonial col-md-2 col-xs-12">
+                    <div class="c_box d-flex align-items-center  justify-content-center"><img src="./img/m_logo.png"
+                            alt="logo" class="img-fluid"></div>
+                    <h5 class="text-center">Emergency Helpline</h5>
+                </div>
+            </div>
+        </div>
+    </section> -->
+    
